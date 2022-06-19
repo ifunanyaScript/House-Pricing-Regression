@@ -1,6 +1,6 @@
 # House-Pricing-Regression
 This is regression project on house price prediction.
-The dataset I used to work on this project is <br>
+The dataset I used to work on this project <br>
 can be found [here.](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data) <br>
 This project features:
   1. Data cleaning
