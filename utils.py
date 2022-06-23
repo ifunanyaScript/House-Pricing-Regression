@@ -24,3 +24,5 @@ def load_saved_artifacts():
 if __name__ == "__main__":
     load_saved_artifacts()
     print(get_location_names())
+
+    # ifunanyaScript
