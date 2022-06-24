@@ -2,7 +2,6 @@ import json
 import pickle
 import numpy as np
 
-
 __locations = None
 __data_columns = None
 __model = None
@@ -46,3 +45,5 @@ if __name__ == "__main__":
     print(get_estimated_price("1st Phase JP Nagar", 1000, 3, 4))
     print(get_estimated_price("Yelachenahalli", 2500, 8, 7))
     print(get_estimated_price("Kalhalli", 1000, 2, 2))
+    
+# ifunanyaScript
