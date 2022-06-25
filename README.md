@@ -12,4 +12,4 @@ This project features:
   7. Model deployment to AWS.
 <br>
 The notebooks and source codes of the entire project is also provided.
-
+Feel free to fork this repo.
