@@ -10,7 +10,7 @@ function onPageLoad() {
             $("#uiLocations").empty();
             for(var i in locations) {
                 var opt = new Option(locations[i]);
-                $('uiLocations').append(opt);
+                $('#uiLocations').append(opt);
             }
         }
     })
