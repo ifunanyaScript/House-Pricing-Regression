@@ -13,3 +13,5 @@ This project features:
 <br>
 The notebooks and source codes of the entire project is also provided.
 Feel free to fork this repo.
+
+The regression web app for predicting prices of houses in Bengaluru is [here](http://ec2-44-204-3-215.compute-1.amazonaws.com/)
