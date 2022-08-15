@@ -7,7 +7,7 @@ This project features:
   2. Outlier filtering.
   3. Feature engineering
   4. Regression model(training).
-  5. A web app for use.
+  5. A web app development.
   6. Python Flask server.
   7. Model deployment to AWS.
 <br>
