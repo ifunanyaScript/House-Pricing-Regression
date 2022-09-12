@@ -22,5 +22,5 @@ A web app where a user can make a few tangible inputs for the kind of house they
 The complete package will be deployed to AWS EC2 instance. The link is just at the top of this README.
 
 <br>
-The notebooks and source codes of the entire project is also provided.
-Feel free to fork this repo.
+The notebooks and source codes of the entire project are all available in this repo.  
+Feel free to fork this repo 😀.
