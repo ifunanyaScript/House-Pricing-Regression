@@ -10,7 +10,7 @@ As a data scientist, one will always come accross ___rogue data___. Data most ti
 Their are always outliers in every dataset. When building a prototype that is intended for a general population it will be irresponsible to take outliers into account as that could skew the whole representation. In this case of real estate(house prices) a typical outlier can be a house of 4000sqft, with 2 bedrooms and 2 bhk that is overly expensive; now that's a typical outlier. The essence of data cleaning is two remove such absurd datapoints from the dataset. 
 
 ### Regression model
-Linear regression. _Statistical modelling_
+Logistic regression. _Statistical modelling_
 
 ### Python Flask server
 A flask server that serves as a backend through which one can access the pretrained model.
