@@ -21,10 +21,10 @@ A flask server that serves as a backend through which one can access the pretrai
 
 ### A web app development
 A web app where a user can make a few tangible inputs for the kind of house they want to buy and readily get an estimated cost.  
-All the source codes used to build the website is available [here]()
+All the source codes and files used to build the website is available [here](https://github.com/ifunanyaScript/House-Pricing-Regression/tree/main/client).
 
 ### Prototype deployment to AWS
-The complete package will be deployed to AWS EC2 instance. The link is just at the top of this README.
+The complete package was deployed to AWS EC2 instance. The link is just at the top of this README.
 
 <br>
 The notebooks and source codes of the entire project are all available in this repo.  
